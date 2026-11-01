@@ -85,10 +85,6 @@ Mall-Customer-Segmentation/
 3. Open Jupyter Notebook.
 4. Run `Mall_Customer_Segmentation.ipynb`.
 5. Keep the dataset in the same folder as the notebook.
-
-## Reference
-[Customer Segmentation and Clustering – YouTube Tutorial](https://youtu.be/iwUli5gIcU0)
-
 ## Author
 **Ajith Baskaran**
 
