@@ -63,21 +63,21 @@ Methods used:
 10. Business Insights
 
 ## Project Structure
-```text
+```
 Mall-Customer-Segmentation/
 │
-├── Mall_Customer_Segmentation.ipynb
+├── images/
+│   ├── elbow_method.png
+│   ├── silhouette_score.png
+│   └── customer_clusters.png
+│
+├── Customer_Segmentation_Analysis.ipynb
+├── Mall_Customer_Segmentation_Project_Documentation.docx
 ├── Mall_Customers.csv
 ├── Mall_Customers_with_Clusters.csv
 ├── requirements.txt
-├── README.md
-│
-└── images/
-    ├── elbow_method.png
-    ├── silhouette_score.png
-    └── customer_clusters.png
+└── README.md
 ```
-
 ## How to Run the Project
 1. Clone this repository.
 2. Install the required libraries:
